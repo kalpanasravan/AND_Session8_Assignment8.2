@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AND_Session8_Assignment8.2</string>
+    <string name="name_string"> Enter the name</string>
+    <string name="age_string"> Enter the age</string>
+    <string name="phone_string"> Enter the phone</string>
+    <string name="city_string"> Enter the city</string>
+    <string name="save_string"> Save</string>
+    <string name="show_string">Show</string>
+
+</resources>
